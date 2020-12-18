@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hzm/myslambook/ch3/examples/build",
+  "command": "/usr/bin/c++   -I/usr/include/eigen3  -g   -o CMakeFiles/coordinateTransform.dir/coordinateTransform.cpp.o -c /home/hzm/myslambook/ch3/examples/coordinateTransform.cpp",
+  "file": "/home/hzm/myslambook/ch3/examples/coordinateTransform.cpp"
+}
+]
