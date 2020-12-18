@@ -1,3 +1,0 @@
-/home/hzm/myslambook/ch3/useEigen/build/CMakeFiles/rebuild_cache.dir
-/home/hzm/myslambook/ch3/useEigen/build/CMakeFiles/eigenMatrix.dir
-/home/hzm/myslambook/ch3/useEigen/build/CMakeFiles/edit_cache.dir

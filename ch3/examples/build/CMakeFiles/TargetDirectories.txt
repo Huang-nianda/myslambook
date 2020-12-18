@@ -1,3 +1,0 @@
-/home/hzm/myslambook/ch3/examples/build/CMakeFiles/rebuild_cache.dir
-/home/hzm/myslambook/ch3/examples/build/CMakeFiles/coordinateTransform.dir
-/home/hzm/myslambook/ch3/examples/build/CMakeFiles/edit_cache.dir
